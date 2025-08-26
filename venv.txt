@@ -1,0 +1,3 @@
+pip install venv
+python -m venv raspicv
+pip install opencv-python

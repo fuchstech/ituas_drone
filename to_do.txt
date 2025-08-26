@@ -1,0 +1,10 @@
+İHA üzerinde bulunan Raspberry Pi 4 ile renk tespiti yapılarak tespit edilen renk verisinin,
+ LORA haberleşmesi vasıtasıyla İDA'ya aktarılması
+
+İHA 
+LORA
+Arduino
+Raspberry 
+Kamera 
+
+2404 jazzy nav2
